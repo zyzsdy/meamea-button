@@ -1,0 +1,484 @@
+{
+    "voices": [
+        {
+            "categoryName": "braying",
+            "categoryDescription": {
+                "zh-CN": "怪叫"
+            },
+            "voiceList": [
+                {
+                    "name": "01",
+                    "path": "01.mp3",
+                    "description": {
+                        "zh-CN": "啊啊啊！！！（鬼叫）",
+                        "ja-JP": "ああああ",
+                        "en-US": "Aaaaaaaaaaaa"
+                    }
+                },
+                {
+                    "name": "02",
+                    "path": "02.mp3",
+                    "description": {
+                        "zh-CN": "啊啊啊啊，有什么东西！等等等等"
+                    }
+                },
+                {
+                    "name": "03",
+                    "path": "03.mp3",
+                    "description": {
+                        "zh-CN": "啊啊啊啊（拉长音）"
+                    }
+                },
+                {
+                    "name": "04",
+                    "path": "04.mp3",
+                    "description": {
+                        "zh-CN": "啊啊啊啊啊啊啊（震惊咩阿 音量注意）"
+                    }
+                },
+                {
+                    "name": "05",
+                    "path": "05.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子（笑声）"
+                    }
+                },
+                {
+                    "name": "06",
+                    "path": "06.mp3",
+                    "description": {
+                        "zh-CN": "吼诶？吼诶吼诶？（幼mea）"
+                    }
+                },
+                {
+                    "name": "07",
+                    "path": "07.mp3",
+                    "description": {
+                        "zh-CN": "哈哈呵（铃铛般的笑声）"
+                    }
+                },
+                {
+                    "name": "08",
+                    "path": "08.mp3",
+                    "description": {
+                        "zh-CN": "呜哇"
+                    }
+                },
+                {
+                    "name": "09",
+                    "path": "09.mp3",
+                    "description": {
+                        "zh-CN": "喂喂"
+                    }
+                },
+                {
+                    "name": "10",
+                    "path": "10.mp3",
+                    "description": {
+                        "zh-CN": "吸溜（吸口水）"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "modal",
+            "categoryDescription": {
+                "zh-CN": "语气"
+            },
+            "voiceList": [
+                {
+                    "name": "11",
+                    "path": "11.mp3",
+                    "description": {
+                        "zh-CN": "对吧~"
+                    }
+                },
+                {
+                    "name": "12",
+                    "path": "12.mp3",
+                    "description": {
+                        "zh-CN": "诶，不明白"
+                    }
+                },
+                {
+                    "name": "13",
+                    "path": "13.mp3",
+                    "description": {
+                        "zh-CN": "诶什么什么？搞不懂"
+                    }
+                },
+                {
+                    "name": "14",
+                    "path": "14.mp3",
+                    "description": {
+                        "zh-CN": "嗑咻"
+                    }
+                },
+                {
+                    "name": "15",
+                    "path": "15.mp3",
+                    "description": {
+                        "zh-CN": "如何"
+                    }
+                },
+                {
+                    "name": "16",
+                    "path": "16.mp3",
+                    "description": {
+                        "zh-CN": "太好了"
+                    }
+                },
+                {
+                    "name": "17",
+                    "path": "17.mp3",
+                    "description": {
+                        "zh-CN": "一二一一"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "kawaii",
+            "categoryDescription": {
+                "zh-CN": "可爱的meamea"
+            },
+            "voiceList": [
+                {
+                    "name": "18",
+                    "path": "18.mp3",
+                    "description": {
+                        "zh-CN": "拜托了"
+                    }
+                },
+                {
+                    "name": "19",
+                    "path": "19.mp3",
+                    "description": {
+                        "zh-CN": "姐姐大人~"
+                    }
+                },
+                {
+                    "name": "20",
+                    "path": "20.mp3",
+                    "description": {
+                        "zh-CN": "肯定会害羞啊"
+                    }
+                },
+                {
+                    "name": "21",
+                    "path": "21.mp3",
+                    "description": {
+                        "zh-CN": "明明一直都是好孩子，一直都在让大家开心"
+                    }
+                },
+                {
+                    "name": "22",
+                    "path": "22.mp3",
+                    "description": {
+                        "zh-CN": "mea不管了啦！！吓死人家了！！"
+                    }
+                },
+                {
+                    "name": "23",
+                    "path": "23.mp3",
+                    "description": {
+                        "zh-CN": "你好，我很可爱，请给我钱（中文）"
+                    }
+                },
+                {
+                    "name": "24",
+                    "path": "24.mp3",
+                    "description": {
+                        "zh-CN": "你好我很可爱"
+                    }
+                },
+                {
+                    "name": "25",
+                    "path": "25.mp3",
+                    "description": {
+                        "zh-CN": "你好我很可爱（二重禁忌）"
+                    }
+                },
+                {
+                    "name": "26",
+                    "path": "26.mp3",
+                    "description": {
+                        "zh-CN": "你好我很可爱（三重禁忌）"
+                    }
+                },
+                {
+                    "name": "27",
+                    "path": "27.mp3",
+                    "description": {
+                        "zh-CN": "我很可爱"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "meaqua",
+            "categoryDescription": {
+                "zh-CN": "meaqua"
+            },
+            "voiceList": [
+                {
+                    "name": "28",
+                    "path": "28.mp3",
+                    "description": {
+                        "zh-CN": "阿夸酱能更可爱一点就好了啦~"
+                    }
+                },
+                {
+                    "name": "29",
+                    "path": "29.mp3",
+                    "description": {
+                        "zh-CN": "不辛苦哟 只是觉得你狠可爱而已（对夸）"
+                    }
+                },
+                {
+                    "name": "30",
+                    "path": "30.mp3",
+                    "description": {
+                        "zh-CN": "快点 接线"
+                    }
+                },
+                {
+                    "name": "31",
+                    "path": "31.mp3",
+                    "description": {
+                        "zh-CN": "喂，凑阿库娅"
+                    }
+                },
+                {
+                    "name": "32",
+                    "path": "32.mp3",
+                    "description": {
+                        "zh-CN": "喂，肥猪"
+                    }
+                },
+                {
+                    "name": "33",
+                    "path": "33.mp3",
+                    "description": {
+                        "zh-CN": "喂~debu~"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "encourage",
+            "categoryDescription": {
+                "zh-CN": "鼓励"
+            },
+            "voiceList": [
+                {
+                    "name": "34",
+                    "path": "34.mp3",
+                    "description": {
+                        "zh-CN": "大夫！有医生吗？！这里 这里有医生在场吗？！"
+                    }
+                },
+                {
+                    "name": "35",
+                    "path": "35.mp3",
+                    "description": {
+                        "zh-CN": "大家都在努力，mea也要加把劲"
+                    }
+                },
+                {
+                    "name": "36",
+                    "path": "36.mp3",
+                    "description": {
+                        "zh-CN": "敌人桑在哪里呢 啊锵啪啪啪啪（萌音）"
+                    }
+                },
+                {
+                    "name": "37",
+                    "path": "37.mp3",
+                    "description": {
+                        "zh-CN": "给我去工作！"
+                    }
+                },
+                {
+                    "name": "38",
+                    "path": "38.mp3",
+                    "description": {
+                        "zh-CN": "你们不能嘲讽mea，但是mea可以嘲讽你们，懂了吗？"
+                    }
+                },
+                {
+                    "name": "39",
+                    "path": "39.mp3",
+                    "description": {
+                        "zh-CN": "你们脑袋上的螺丝是送掉了吗？！"
+                    }
+                },
+                {
+                    "name": "40",
+                    "path": "40.mp3",
+                    "description": {
+                        "zh-CN": "愚蠢的人类啊！"
+                    }
+                },
+                {
+                    "name": "41",
+                    "path": "41.mp3",
+                    "description": {
+                        "zh-CN": "真的是脑子有病啊！"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "neta",
+            "categoryDescription": {
+                "zh-CN": "传统艺能"
+            },
+            "voiceList": [
+                {
+                    "name": "42",
+                    "path": "42.mp3",
+                    "description": {
+                        "zh-CN": "不存在的"
+                    }
+                },
+                {
+                    "name": "43",
+                    "path": "43.mp3",
+                    "description": {
+                        "zh-CN": "不播不行了"
+                    }
+                },
+                {
+                    "name": "44",
+                    "path": "44.mp3",
+                    "description": {
+                        "zh-CN": "不行了，不行了，哈哈"
+                    }
+                },
+                {
+                    "name": "45",
+                    "path": "45.mp3",
+                    "description": {
+                        "zh-CN": "非常难为情，不妙"
+                    }
+                },
+                {
+                    "name": "46",
+                    "path": "46.mp3",
+                    "description": {
+                        "zh-CN": "今天不能直播了！"
+                    }
+                },
+                {
+                    "name": "47",
+                    "path": "47.mp3",
+                    "description": {
+                        "zh-CN": "money（100刀）"
+                    }
+                },
+                {
+                    "name": "48",
+                    "path": "48.mp3",
+                    "description": {
+                        "zh-CN": "money（500刀）"
+                    }
+                },
+                {
+                    "name": "49",
+                    "path": "49.mp3",
+                    "description": {
+                        "zh-CN": "哇播了好多"
+                    }
+                },
+                {
+                    "name": "50",
+                    "path": "50.mp3",
+                    "description": {
+                        "zh-CN": "谢谢茄子"
+                    }
+                },
+                {
+                    "name": "51",
+                    "path": "51.mp3",
+                    "description": {
+                        "zh-CN": "再来一个 杠、杠、杠 岭上开放（wwww）"
+                    }
+                },
+                {
+                    "name": "52",
+                    "path": "52.mp3",
+                    "description": {
+                        "zh-CN": "直播了多少次"
+                    }
+                },
+                {
+                    "name": "53",
+                    "path": "53.mp3",
+                    "description": {
+                        "zh-CN": "这种事很羞耻啊"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "other",
+            "categoryDescription": {
+                "zh-CN": "其他",
+                "en-US": "Other",
+                "ja-JP": "その他"
+            },
+            "voiceList": [
+                {
+                    "name": "54",
+                    "path": "54.mp3",
+                    "description": {
+                        "zh-CN": "mea把茶水打翻了啊！！"
+                    }
+                },
+                {
+                    "name": "55",
+                    "path": "55.mp3",
+                    "description": {
+                        "zh-CN": "明明mea什么也没做错···！"
+                    }
+                },
+                {
+                    "name": "56",
+                    "path": "56.mp3",
+                    "description": {
+                        "zh-CN": "请不要丢下mea一个人啊！！"
+                    }
+                },
+                {
+                    "name": "57",
+                    "path": "57.mp3",
+                    "description": {
+                        "zh-CN": "呜呼QAQ……真浪费~~!"
+                    }
+                },
+                {
+                    "name": "58",
+                    "path": "58.mp3",
+                    "description": {
+                        "zh-CN": "哇，好酸"
+                    }
+                },
+                {
+                    "name": "59",
+                    "path": "59.mp3",
+                    "description": {
+                        "zh-CN": "早上好"
+                    }
+                },
+                {
+                    "name": "60",
+                    "path": "60.mp3",
+                    "description": {
+                        "zh-CN": "珍↑纷↓汉↑纷↓"
+                    }
+                }
+            ]
+        }
+    ]
+}
