@@ -18,14 +18,19 @@
 
 <style lang="scss" scoped>
 .cate-header{
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.363);
     border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     text-align: center;
+    font-size: 20px;
     margin-bottom: 12px;
 }
 .cate-body{
     margin-bottom: 12px;
+    text-align: center;
+}
+.cate-body button{
+    margin: 5px;
 }
 </style>
 
@@ -39,7 +44,6 @@ import VoiceList from '../voices.json'
 class HomePage extends Vue {
     voices = VoiceList.voices
     play(path){
-        console.log(path);
         this.stopPlay();
         let player = document.getElementById('player');
         player.src = "voices/" + path;
@@ -47,7 +51,6 @@ class HomePage extends Vue {
     }
     stopPlay(){
         let player = document.getElementById('player');
-        console.log(player);
         player.pause();
     }
 }

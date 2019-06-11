@@ -1,6 +1,11 @@
 const en_US = {
     info: {
         title: "meamea button",
+        info: "Information",
+        null: "Empty",
+        desktopVersion: "Download: https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA Extraction code: 74qs",
+        desktopInfo: "Download the desktop version By 夕舞八弦",
+        audioStaff: "Audio Clip: 寂寞时空，plasc"
     },
     action: {
         toggleNavbar: "Toggle navigation bar",

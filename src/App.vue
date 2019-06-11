@@ -33,8 +33,9 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <div>Production staff: 寂寞时空，plasc，夕舞八弦 and zyzsdy</div>
-                <div>Meamea daisuki in 2019</div>
+                <div><a href="javascript:;" @click="downloadDesktopVersion">{{$t("info.desktopInfo")}}</a></div>
+                <div>{{$t("info.audioStaff")}}</div>
+                <div>Zyzsdy 2019 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div>
             </div>
         </footer>
   </div>
@@ -81,6 +82,9 @@ class App extends Vue {
     chlang(v){
         this.$i18n.locale = v;
         localStorage.setItem("lang", v);
+    }
+    downloadDesktopVersion(){
+        this.$gConst.globalbus.$emit("send-info", "info.desktopVersion");
     }
 }
 
