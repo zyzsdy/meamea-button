@@ -3,7 +3,7 @@ const ja_JP = {
         title: "めあめあボタン",
         info: "通知",
         null: "空",
-        desktopVersion: "ダウンロード: https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA 抽出コード: 74qs",
+        desktopVersion: "ダウンロード: https://drive.google.com/open?id=1Fx6vwqoML1gyWD3XYCVD8IX_bb427uK5",
         desktopInfo: "デスクトップ版をダウンロード By 夕舞八弦",
         audioStaff: "オーディオクリップ: 寂寞时空，plasc"
     },
