@@ -5,4 +5,11 @@ script:
 - npm run build
 before_install:
 - openssl aes-256-cbc -K $encrypted_cf1d8225f656_key -iv $encrypted_cf1d8225f656_iv
-  -in id_rsa.enc -out ~\/.ssh/id_rsa -d
+  -in id_rsa.enc -out ~/.ssh/id_rsa -d
+- chmod 600 ~/.ssh/id_rsa
+- echo -e "Host ${deploy_host}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+after_success:
+- cd $TRAVIS_BUILD_DIR/dist
+- tar zcvf meamea.tar.gz .
+- scp -P $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null meamea.tar.gz ${deploy_user}@${deploy_host}:/var/www/meamea/
+- ssh -p $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ${deploy_user}@${deploy_host} 'cd /var/www/meamea && tar zxvf meamea.tar.gz && rm -yf meamea.tar.gz'
