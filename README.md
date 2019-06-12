@@ -2,6 +2,10 @@
 
 mea按钮
 
+[![Build Status](https://travis-ci.org/zyzsdy/meamea-button.svg?branch=master)](https://travis-ci.org/zyzsdy/meamea-button)
+
+[点此访问 https://meamea.moe](https://meamea.moe)
+
 ## 如何添加音频
 
 编辑 [src/voices.json](src/voices.json)，然后把对应的mp3放置在 [public/voices](public/voices)下面
