@@ -10,6 +10,7 @@ before_install:
 - echo -e "Host ${deploy_host}\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
 - cd $TRAVIS_BUILD_DIR/dist
-- tar zcvf meamea.tar.gz .
+- tar zcvf ../meamea.tar.gz .
+- cd $TRAVIS_BUILD_DIR
 - scp -P $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null meamea.tar.gz ${deploy_user}@${deploy_host}:/var/www/meamea/
-- ssh -p $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ${deploy_user}@${deploy_host} 'cd /var/www/meamea && tar zxvf meamea.tar.gz && rm -yf meamea.tar.gz'
+- ssh -p $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null ${deploy_user}@${deploy_host} 'cd /var/www/meamea && tar zxvf meamea.tar.gz && rm -f meamea.tar.gz'

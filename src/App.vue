@@ -33,6 +33,9 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
+                <div class="pull-right">
+                    <a href="https://github.com/zyzsdy/meamea-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/meamea-button.svg?style=social"/></a>
+                </div>
                 <div><a href="javascript:;" @click="downloadDesktopVersion">{{$t("info.desktopInfo")}}</a></div>
                 <div>{{$t("info.audioStaff")}}</div>
                 <div>Zyzsdy 2019 <span style="color: rgba(0, 0, 0, 0.1)">Powered By Meowsound Idols</span></div>
