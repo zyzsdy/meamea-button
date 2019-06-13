@@ -81,7 +81,7 @@ class App extends Vue {
     created(){
         // eslint-disable-next-line 
         console.log("Produced by MoewSound Idols");
-        this.$i18n.locale = localStorage.getItem("lang") || "zh-CN";
+        this.$i18n.locale = localStorage.getItem("lang") || this.$i18n.locale;
     }
     chlang(v){
         this.$i18n.locale = v;
