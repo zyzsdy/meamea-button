@@ -6,7 +6,8 @@ const ja_JP = {
         desktopVersion: "ダウンロード: https://drive.google.com/open?id=1Fx6vwqoML1gyWD3XYCVD8IX_bb427uK5",
         desktopInfo: "デスクトップ版をダウンロード By 夕舞八弦",
         audioStaff: "オーディオクリップ: 寂寞时空，plasc",
-        toGithub: "Githubで翻訳に参加、音声を追加および提案をしてください。"
+        toGithub: "Githubで翻訳に参加、音声を追加および提案をしてください。",
+        notOfficial: "このサイトはファン作品であり、公式とは関係ありません。"
     },
     action: {
         toggleNavbar: "ナビゲーションバーを切り替える",

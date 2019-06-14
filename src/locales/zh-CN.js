@@ -6,7 +6,8 @@ const zh_CN = {
         desktopVersion: "链接: https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA 提取码: 74qs",
         desktopInfo: "下载桌面版 By 夕舞八弦",
         audioStaff: "音频剪辑: 寂寞时空，plasc",
-        toGithub: "请在Github参与翻译、增补音频或提出建议"
+        toGithub: "请在Github参与翻译、增补音频或提出建议",
+        notOfficial: "本站为爱好者作品，和神楽めあ官方没有关联"
     },
     action: {
         toggleNavbar: "切换导航栏",

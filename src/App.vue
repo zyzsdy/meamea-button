@@ -14,6 +14,10 @@
                 </div>
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
+                        <li><a href="https://twitter.com/KaguraMea_VoV" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
+                    </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("lang." + currentLang)}} <span class="caret"></span></a>
@@ -34,7 +38,8 @@
         <footer class="footer">
             <div class="container-fluid footer-content">
                 <div class="pull-right">
-                    <a href="https://github.com/zyzsdy/meamea-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/meamea-button.svg?style=social"/></a>
+                    <div class="text-right"><a href="https://github.com/zyzsdy/meamea-button" target="_blank">{{$t("info.toGithub")}} <img src="https://img.shields.io/github/stars/zyzsdy/meamea-button.svg?style=social"/></a></div>
+                    <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <div><a href="javascript:;" @click="downloadDesktopVersion">{{$t("info.desktopInfo")}}</a></div>
                 <div>{{$t("info.audioStaff")}}</div>
@@ -60,6 +65,9 @@ body{
 .footer-content {
     padding-top: 10px;
     color: #666;
+}
+.text-right{
+    text-align: right;
 }
 </style>
 
