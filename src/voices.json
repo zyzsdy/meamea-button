@@ -2,7 +2,7 @@
     "voices": [
         {
             "categoryName": "braying",
-            "categoryDescription": {
+            "categoryDescription": {，，
                 "zh-CN": "怪叫",
                 "ja-JP": "ブレーイング"
             },
@@ -924,32 +924,40 @@
                     "name": "m0614-51",
                     "path": "m0614-51.mp3",
                     "description": {
-                        "zh-CN": "330小圆老师梗1",
-                        "ja-JP": "330小圆老师梗1"
+                        "zh-CN": "小圆老师梗1",
+                        "ja-JP": "小圆老师梗1"
                     }
                 },
                 {
                     "name": "m0614-52",
                     "path": "m0614-52.mp3",
                     "description": {
-                        "zh-CN": "330小圆老师梗2",
-                        "ja-JP": "330小圆老师梗2"
+                        "zh-CN": "小圆老师梗2",
+                        "ja-JP": "小圆老师梗2"
                     }
                 },
                 {
                     "name": "m0614-53",
                     "path": "m0614-53.mp3",
                     "description": {
-                        "zh-CN": "330小圆老师梗3",
-                        "ja-JP": "330小圆老师梗3"
+                        "zh-CN": "小圆老师梗3",
+                        "ja-JP": "小圆老师梗3"
+                    }
+                },
+                {
+                    "name": "m0614-59",
+                    "path": "m0614-59.mp3",
+                    "description": {
+                        "zh-CN": "小圆老师梗4",
+                        "ja-JP": "小圆老师梗4"
                     }
                 },
                 {
                     "name": "m0614-54",
                     "path": "m0614-54.mp3",
                     "description": {
-                        "zh-CN": "330摸大腿部分",
-                        "ja-JP": "330摸大腿部分"
+                        "zh-CN": "mea摸aqua大腿",
+                        "ja-JP": "mea摸aqua大腿"
                     }
                 },
                 {
@@ -982,14 +990,6 @@
                     "description": {
                         "zh-CN": "对不起（笨蛋）",
                         "ja-JP": "对不起（笨蛋）"
-                    }
-                },
-                {
-                    "name": "m0614-59",
-                    "path": "m0614-59.mp3",
-                    "description": {
-                        "zh-CN": "小圆老师梗4[私货]",
-                        "ja-JP": "小圆老师梗4[私货]"
                     }
                 },
                 {
@@ -1060,8 +1060,8 @@
                     "name": "m0614-68",
                     "path": "m0614-68.mp3",
                     "description": {
-                        "zh-CN": "阿夸（恼怒",
-                        "ja-JP": "阿夸（恼怒"
+                        "zh-CN": "阿夸（恼怒）",
+                        "ja-JP": "阿夸（恼怒）"
                     }
                 },
                 {
@@ -1471,8 +1471,8 @@
                     "name": "m0614-120",
                     "path": "m0614-120.mp3",
                     "description": {
-                        "zh-CN": "口技蹦蹦蹦",
-                        "ja-JP": "口技蹦蹦蹦"
+                        "zh-CN": "蹦蹦蹦蹦蹦蹦蹦蹦",
+                        "ja-JP": "蹦蹦蹦蹦蹦蹦蹦蹦"
                     }
                 },
                 {
