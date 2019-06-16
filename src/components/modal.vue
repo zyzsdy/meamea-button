@@ -8,9 +8,7 @@
                     </button>
                     <h4 class="modal-title" id="myModalLabel">{{$t(title)}}</h4>
                 </div>
-                <div class="modal-body">
-                    {{$t(msg)}}
-                </div>
+                <div class="modal-body" v-html="$t(msg)"></div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">{{$t("action.close")}}</button>
                 </div>
