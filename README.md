@@ -66,4 +66,6 @@ This project is supported by MeowSound Idols.
 
 [桌面版](https://github.com/daflyinbed/meaButton)
 
-音频剪辑：寂寞时空，plasc
+音频剪辑：寂寞时空，plasc，grayimp，Claymorist，溯时的莫名
+
+日语翻译：现充酱大危机！，空嘘大君
