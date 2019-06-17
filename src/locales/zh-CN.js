@@ -5,7 +5,7 @@ const zh_CN = {
         null: "空",
         desktopVersion: "链接: <a href=\"https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA\" target=\"_blank\">https://pan.baidu.com/s/1xRnYObBCH2nW564fda1sYA</a><br>提取码: 74qs",
         desktopInfo: "下载桌面版",
-        stafflist: "<center>Meamea按钮制作委员会</center><br><br>音频剪辑: 寂寞时空, plasc, Ruinether, grayimp<br>i18n: 现充酱大危机！<br>桌面版制作: 夕舞八弦<br>网页制作: Zyzsdy",
+        stafflist: "<center>Meamea按钮制作委员会</center><br><br>音频剪辑: 寂寞时空, plasc, grayimp, Claymorist, 溯时的莫名<br>i18n: 现充酱大危机！, stan<br>桌面版制作: 夕舞八弦<br>网页制作: Zyzsdy",
         toGithub: "请在Github参与翻译、增补音频或提出建议",
         notOfficial: "本站为爱好者作品，和神楽めあ官方没有关联"
     },
