@@ -232,14 +232,6 @@
                     }
                 },
                 {
-                    "name": "m0614-71",
-                    "path": "m0614-71.mp3",
-                    "description": {
-                        "zh-CN": "交给我吧",
-                        "ja-JP": "交给我吧"
-                    }
-                },
-                {
                     "name": "m0614-72",
                     "path": "m0614-72.mp3",
                     "description": {
@@ -376,14 +368,6 @@
                     }
                 },
                 {
-                    "name": "m0614-89",
-                    "path": "m0614-89.mp3",
-                    "description": {
-                        "zh-CN": "就是啊",
-                        "ja-JP": "就是啊"
-                    }
-                },
-                {
                     "name": "m0614-90",
                     "path": "m0614-90.mp3",
                     "description": {
@@ -408,14 +392,6 @@
                     }
                 },
                 {
-                    "name": "m0614-93",
-                    "path": "m0614-93.mp3",
-                    "description": {
-                        "zh-CN": "怎么样？",
-                        "ja-JP": "怎么样？"
-                    }
-                },
-                {
                     "name": "m0614-94",
                     "path": "m0614-94.mp3",
                     "description": {
@@ -432,14 +408,6 @@
                     }
                 },
                 {
-                    "name": "m0614-96",
-                    "path": "m0614-96.mp3",
-                    "description": {
-                        "zh-CN": "懂吗",
-                        "ja-JP": "懂吗"
-                    }
-                },
-                {
                     "name": "m0614-97",
                     "path": "m0614-97.mp3",
                     "description": {
@@ -448,27 +416,11 @@
                     }
                 },
                 {
-                    "name": "m0614-98",
-                    "path": "m0614-98.mp3",
-                    "description": {
-                        "zh-CN": "我回来了",
-                        "ja-JP": "我回来了"
-                    }
-                },
-                {
                     "name": "m0614-99",
                     "path": "m0614-99.mp3",
                     "description": {
                         "zh-CN": "我知道了",
                         "ja-JP": "我知道了"
-                    }
-                },
-                {
-                    "name": "m0614-100",
-                    "path": "m0614-100.mp3",
-                    "description": {
-                        "zh-CN": "真的非常感谢",
-                        "ja-JP": "真的非常感谢"
                     }
                 },
                 {
@@ -528,14 +480,6 @@
                     }
                 },
                 {
-                    "name": "m0614-108",
-                    "path": "m0614-108.mp3",
-                    "description": {
-                        "zh-CN": "这不公平",
-                        "ja-JP": "这不公平"
-                    }
-                },
-                {
                     "name": "m0614-109",
                     "path": "m0614-109.mp3",
                     "description": {
@@ -581,6 +525,94 @@
                     "description": {
                         "zh-CN": "这样，这个吗",
                         "ja-JP": "これか？"
+                    }
+                },
+                {
+                    "name": "m0629-15",
+                    "path": "m0629-15.mp3",
+                    "description": {
+                        "zh-CN": "啥情况啥情况",
+                        "ja-JP": "啥情况啥情况"
+                    }
+                },
+                {
+                    "name": "m0629-16",
+                    "path": "m0629-16.mp3",
+                    "description": {
+                        "zh-CN": "就是啊",
+                        "ja-JP": "そうだよ"
+                    }
+                },
+                {
+                    "name": "m0629-17",
+                    "path": "m0629-17.mp3",
+                    "description": {
+                        "zh-CN": "怎么样？",
+                        "ja-JP": "どう？"
+                    }
+                },
+                {
+                    "name": "m0629-18",
+                    "path": "m0629-18.mp3",
+                    "description": {
+                        "zh-CN": "懂吗",
+                        "ja-JP": "わかりますか？"
+                    }
+                },
+                {
+                    "name": "m0629-19",
+                    "path": "m0629-19.mp3",
+                    "description": {
+                        "zh-CN": "我回来了",
+                        "ja-JP": "戻りました"
+                    }
+                },
+                {
+                    "name": "m0629-20",
+                    "path": "m0629-20.mp3",
+                    "description": {
+                        "zh-CN": "有什么吗？",
+                        "ja-JP": "何ですか？"
+                    }
+                },
+                {
+                    "name": "m0629-21",
+                    "path": "m0629-21.mp3",
+                    "description": {
+                        "zh-CN": "真的非常感谢",
+                        "ja-JP": "ありがとうございます！"
+                    }
+                },
+                {
+                    "name": "m0629-22",
+                    "path": "m0629-22.mp3",
+                    "description": {
+                        "zh-CN": "碍事",
+                        "ja-JP": "邪魔"
+                    }
+                },
+                {
+                    "name": "m0629-23",
+                    "path": "m0629-23.mp3",
+                    "description": {
+                        "zh-CN": "笨蛋",
+                        "ja-JP": "バガ！"
+                    }
+                },
+                {
+                    "name": "m0629-24",
+                    "path": "m0629-24.mp3",
+                    "description": {
+                        "zh-CN": "诶？",
+                        "ja-JP": "え？"
+                    }
+                },
+                {
+                    "name": "m0629-25",
+                    "path": "m0629-25.mp3",
+                    "description": {
+                        "zh-CN": "这不公平",
+                        "ja-JP": "フェアじゃない"
                     }
                 }
             ]
@@ -745,27 +777,11 @@
                     }
                 },
                 {
-                    "name": "m0614-37",
-                    "path": "m0614-37.mp3",
-                    "description": {
-                        "zh-CN": "啥情况啥情况",
-                        "ja-JP": "啥情况啥情况"
-                    }
-                },
-                {
                     "name": "m0614-38",
                     "path": "m0614-38.mp3",
                     "description": {
                         "zh-CN": "大家的女仆——神楽めあ的说",
                         "ja-JP": "みんなのメイドさん、神楽めあです～"
-                    }
-                },
-                {
-                    "name": "m0614-39",
-                    "path": "m0614-39.mp3",
-                    "description": {
-                        "zh-CN": "太好了",
-                        "ja-JP": "太好了"
                     }
                 },
                 {
@@ -781,7 +797,7 @@
                     "path": "m0614-41.mp3",
                     "description": {
                         "zh-CN": "我爱你",
-                        "ja-JP": "我爱你"
+                        "ja-JP": "あいしてる"
                     }
                 },
                 {
@@ -825,14 +841,6 @@
                     }
                 },
                 {
-                    "name": "m0614-47",
-                    "path": "m0614-47.mp3",
-                    "description": {
-                        "zh-CN": "诶？",
-                        "ja-JP": "诶？"
-                    }
-                },
-                {
                     "name": "m0614-48",
                     "path": "m0614-48.mp3",
                     "description": {
@@ -853,7 +861,39 @@
                     "path": "m0614-50.mp3",
                     "description": {
                         "zh-CN": "（打喷嚏）",
-                        "ja-JP": "（打喷嚏）"
+                        "ja-JP": "（くしゃみ）"
+                    }
+                },
+                {
+                    "name": "m0629-10",
+                    "path": "m0629-10.mp3",
+                    "description": {
+                        "zh-CN": "bebu~bebububu（模仿伊布叫声）",
+                        "ja-JP": "ブイーイブイーイ！"
+                    }
+                },
+                {
+                    "name": "m0629-11",
+                    "path": "m0629-11.mp3",
+                    "description": {
+                        "zh-CN": "mea大人哦",
+                        "ja-JP": "めあさまよ"
+                    }
+                },
+                {
+                    "name": "m0629-12",
+                    "path": "m0629-12.mp3",
+                    "description": {
+                        "zh-CN": "咩~咩~咩",
+                        "ja-JP": "めぇ―めぇ―めぇ―"
+                    }
+                },
+                {
+                    "name": "m0629-13",
+                    "path": "m0629-13.mp3",
+                    "description": {
+                        "zh-CN": "皮卡皮卡~皮卡丘~",
+                        "ja-JP": "ピカピカ、ピカチュウ！"
                     }
                 }
             ]
@@ -965,8 +1005,8 @@
                     "name": "m0614-55",
                     "path": "m0614-55.mp3",
                     "description": {
-                        "zh-CN": "auqa↑",
-                        "ja-JP": "auqa↑"
+                        "zh-CN": "aqua↑",
+                        "ja-JP": "aqua↑"
                     }
                 },
                 {
@@ -1079,6 +1119,14 @@
                     "description": {
                         "zh-CN": "阿库娅就是阿库娅嘛",
                         "ja-JP": "阿库娅就是阿库娅嘛"
+                    }
+                },
+                {
+                    "name": "m0629-14",
+                    "path": "m0629-14.mp3",
+                    "description": {
+                        "zh-CN": "好慢哦",
+                        "ja-JP": "おせいよ"
                     }
                 }
             ]
@@ -1194,14 +1242,6 @@
                     }
                 },
                 {
-                    "name": "m0614-22",
-                    "path": "m0614-22.mp3",
-                    "description": {
-                        "zh-CN": "你们以为mea是谁？",
-                        "ja-JP": "你们以为mea是谁？"
-                    }
-                },
-                {
                     "name": "m0614-23",
                     "path": "m0614-23.mp3",
                     "description": {
@@ -1210,35 +1250,59 @@
                     }
                 },
                 {
-                    "name": "m0614-24",
-                    "path": "m0614-24.mp3",
-                    "description": {
-                        "zh-CN": "你们只要能听到mea的声音就满足了吧",
-                        "ja-JP": "你们只要能听到mea的声音就满足了吧"
-                    }
-                },
-                {
-                    "name": "m0614-25",
-                    "path": "m0614-25.mp3",
-                    "description": {
-                        "zh-CN": "你们是不是有点太嚣张了？",
-                        "ja-JP": "你们是不是有点太嚣张了？"
-                    }
-                },
-                {
-                    "name": "m0614-26",
-                    "path": "m0614-26.mp3",
-                    "description": {
-                        "zh-CN": "你们脑门上的螺丝松了吗？",
-                        "ja-JP": "你们脑门上的螺丝松了吗？"
-                    }
-                },
-                {
                     "name": "m0614-27",
                     "path": "m0614-27.mp3",
                     "description": {
                         "zh-CN": "吵死了闭嘴笨蛋",
                         "ja-JP": "吵死了闭嘴笨蛋"
+                    }
+                },
+                {
+                    "name": "m0629-4",
+                    "path": "m0629-4.mp3",
+                    "description": {
+                        "zh-CN": "你们以为mea是谁？",
+                        "ja-JP": "めあのことだれだと思ているの？"
+                    }
+                },
+                {
+                    "name": "m0629-5",
+                    "path": "m0629-5.mp3",
+                    "description": {
+                        "zh-CN": "你们只要能听到mea的声音就满足了吧",
+                        "ja-JP": "めあの声がお聞きれば何でもいいだろう？君たちは"
+                    }
+                },
+                {
+                    "name": "m0629-6",
+                    "path": "m0629-6.mp3",
+                    "description": {
+                        "zh-CN": "你们是不是有点太嚣张了？",
+                        "ja-JP": "みなおりすぎじゃない？"
+                    }
+                },
+                {
+                    "name": "m0629-7",
+                    "path": "m0629-7.mp3",
+                    "description": {
+                        "zh-CN": "你们脑门上的螺丝松了吗？",
+                        "ja-JP": "君たち頭のねじゆるゆるですか？"
+                    }
+                },
+                {
+                    "name": "m0629-8",
+                    "path": "m0629-8.mp3",
+                    "description": {
+                        "zh-CN": "你们觉得是我的错还是你们的错？",
+                        "ja-JP": "わたしとみなさんどちが悪いと思いますか？"
+                    }
+                },
+                {
+                    "name": "m0629-9",
+                    "path": "m0629-9.mp3",
+                    "description": {
+                        "zh-CN": "全都是观众的错",
+                        "ja-JP": "全て、視聴者の責任と思う"
                     }
                 }
             ]
@@ -1347,19 +1411,43 @@
                     }
                 },
                 {
-                    "name": "m0614-115",
-                    "path": "m0614-115.mp3",
-                    "description": {
-                        "zh-CN": "mea大人哦",
-                        "ja-JP": "mea大人哦"
-                    }
-                },
-                {
                     "name": "m0614-116",
                     "path": "m0614-116.mp3",
                     "description": {
                         "zh-CN": "绝对是在把人当傻子啊",
                         "ja-JP": "ひとのことバガにしてだよ"
+                    }
+                },
+                {
+                    "name": "m0629-26",
+                    "path": "m0629-26.mp3",
+                    "description": {
+                        "zh-CN": "一点也不污",
+                        "ja-JP": "きたなく（ない）"
+                    }
+                },
+                {
+                    "name": "m0629-27",
+                    "path": "m0629-27.mp3",
+                    "description": {
+                        "zh-CN": "为什么要说那样的话呢？",
+                        "ja-JP": "何でそういうこと言うの？"
+                    }
+                },
+                {
+                    "name": "m0629-28",
+                    "path": "m0629-28.mp3",
+                    "description": {
+                        "zh-CN": "交给我吧",
+                        "ja-JP": "任せて"
+                    }
+                },
+                {
+                    "name": "m0629-29",
+                    "path": "m0629-29.mp3",
+                    "description": {
+                        "zh-CN": "是我的错吗？",
+                        "ja-JP": "わたしの悪いかな？"
                     }
                 }
             ]
@@ -1449,7 +1537,7 @@
                     "path": "m0614-117.mp3",
                     "description": {
                         "zh-CN": "hololive",
-                        "ja-JP": "hololive"
+                        "ja-JP": "ホロライブ"
                     }
                 },
                 {
@@ -1549,27 +1637,11 @@
                     }
                 },
                 {
-                    "name": "m0614-130",
-                    "path": "m0614-130.mp3",
-                    "description": {
-                        "zh-CN": "是我的错吗？",
-                        "ja-JP": "是我的错吗？"
-                    }
-                },
-                {
                     "name": "m0614-131",
                     "path": "m0614-131.mp3",
                     "description": {
                         "zh-CN": "普通的不行，普通的不行noiya",
                         "ja-JP": "普通に無理なのじあ"
-                    }
-                },
-                {
-                    "name": "m0614-132",
-                    "path": "m0614-132.mp3",
-                    "description": {
-                        "zh-CN": "有什么吗？",
-                        "ja-JP": "有什么吗？"
                     }
                 },
                 {
@@ -1587,6 +1659,14 @@
                         "zh-CN": "那就再加把劲吧",
                         "ja-JP": "もう一度頑張るか"
                     }
+                },
+                {
+                    "name": "m0629-30",
+                    "path": "m0629-30.mp3",
+                    "description": {
+                        "zh-CN": "电脑坏掉了",
+                        "ja-JP": "壊れちゃったパソコン"
+                    }
                 }
             ]
         },
@@ -1594,8 +1674,8 @@
             "categoryName": "common",
             "categoryDescription": {
                 "zh-CN": "通用",
-                "en-US": "通常",
-                "ja-JP": "Common"
+                "en-US": "Common",
+                "ja-JP": "通常"
             },
             "voiceList": [
                 {
@@ -1612,14 +1692,6 @@
                     "description": {
                         "zh-CN": "不好意系（思）",
                         "ja-JP": "不好意系（思）"
-                    }
-                },
-                {
-                    "name": "m0614-7",
-                    "path": "m0614-7.mp3",
-                    "description": {
-                        "zh-CN": "不是那个意思啦",
-                        "ja-JP": "不是那个意思啦"
                     }
                 },
                 {
@@ -1687,14 +1759,6 @@
                     }
                 },
                 {
-                    "name": "m0614-16",
-                    "path": "m0614-16.mp3",
-                    "description": {
-                        "zh-CN": "电脑坏掉了",
-                        "ja-JP": "电脑坏掉了"
-                    }
-                },
-                {
                     "name": "m0614-17",
                     "path": "m0614-17.mp3",
                     "description": {
@@ -1703,11 +1767,27 @@
                     }
                 },
                 {
-                    "name": "m0614-18",
-                    "path": "m0614-18.mp3",
+                    "name": "m0629-1",
+                    "path": "m0629-1.mp3",
+                    "description": {
+                        "zh-CN": "不是那个意思啦",
+                        "ja-JP": "そういう意味じゃないんだ"
+                    }
+                },
+                {
+                    "name": "m0629-2",
+                    "path": "m0629-2.mp3",
+                    "description": {
+                        "zh-CN": "打ち込み",
+                        "ja-JP": "打ち込み"
+                    }
+                },
+                {
+                    "name": "m0629-3",
+                    "path": "m0629-3.mp3",
                     "description": {
                         "zh-CN": "连接成功",
-                        "ja-JP": "连接成功"
+                        "ja-JP": "テスト完了"
                     }
                 }
             ]
@@ -1716,8 +1796,8 @@
             "categoryName": "saying",
             "categoryDescription": {
                 "zh-CN": "名言",
-                "en-US": "名言",
-                "ja-JP": "Saying"
+                "en-US": "Saying",
+                "ja-JP": "名言"
             },
             "voiceList": [
                 {
@@ -1725,7 +1805,7 @@
                     "path": "m0614-135.mp3",
                     "description": {
                         "zh-CN": "mea什么都没有做错",
-                        "ja-JP": "mea什么都没有做错"
+                        "ja-JP": "めあは何も悪くない"
                     }
                 },
                 {
@@ -1733,7 +1813,7 @@
                     "path": "m0614-136.mp3",
                     "description": {
                         "zh-CN": "mea怎么可能会做那种事情嘛",
-                        "ja-JP": "mea怎么可能会做那种事情嘛"
+                        "ja-JP": "そうなことめあがするわけない"
                     }
                 },
                 {
@@ -1745,35 +1825,11 @@
                     }
                 },
                 {
-                    "name": "m0614-138",
-                    "path": "m0614-138.mp3",
-                    "description": {
-                        "zh-CN": "一点也不污",
-                        "ja-JP": "一点也不污"
-                    }
-                },
-                {
                     "name": "m0614-139",
                     "path": "m0614-139.mp3",
                     "description": {
                         "zh-CN": "一起来玩吧",
                         "ja-JP": "やろうぜ！一緒に"
-                    }
-                },
-                {
-                    "name": "m0614-140",
-                    "path": "m0614-140.mp3",
-                    "description": {
-                        "zh-CN": "你们觉得是我的错还是你们的错？",
-                        "ja-JP": "你们觉得是我的错还是你们的错？"
-                    }
-                },
-                {
-                    "name": "m0614-141",
-                    "path": "m0614-141.mp3",
-                    "description": {
-                        "zh-CN": "全都是观众的错",
-                        "ja-JP": "全都是观众的错"
                     }
                 },
                 {
