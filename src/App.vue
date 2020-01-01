@@ -42,7 +42,7 @@
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <div><a href="javascript:;" @click="downloadDesktopVersion">{{$t("info.desktopInfo")}}</a></div>
-                <div><a href="javascript:;" @click="showStaff">Meamea Button Production Committee</a> 2019 <span style="color: rgba(0, 0, 0, 0.1)">Supported By Meowsound Idols</span></div>
+                <div><a href="javascript:;" @click="showStaff">Meamea Button Production Committee</a> 2019-2020 <span style="color: rgba(0, 0, 0, 0.1)">Supported By Meowsound Idols</span></div>
             </div>
         </footer>
   </div>
