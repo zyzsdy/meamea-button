@@ -125,7 +125,7 @@
                     "path": "m0614-1.mp3",
                     "description": {
                         "zh-CN": "啊---",
-                        "ja-JP": "啊---"
+                        "ja-JP": "あ---"
                     }
                 },
                 {
@@ -141,7 +141,7 @@
                     "path": "m0614-3.mp3",
                     "description": {
                         "zh-CN": "啊啊",
-                        "ja-JP": "啊啊"
+                        "ja-JP": "ああ"
                     }
                 },
                 {
@@ -221,14 +221,16 @@
                     "name": "62",
                     "path": "62-1.mp3",
                     "description": {
-                        "zh-CN": "byebye"
+                        "zh-CN": "byebye",
+                        "ja-JP": "バイ・バイ"
                     }
                 },
                 {
                     "name": "63",
                     "path": "63-1.mp3",
                     "description": {
-                        "zh-CN": "嗯？"
+                        "zh-CN": "嗯？",
+                        "ja-JP": "ん？"
                     }
                 },
                 {
@@ -292,7 +294,7 @@
                     "path": "m0614-79.mp3",
                     "description": {
                         "zh-CN": "啊好强",
-                        "ja-JP": "啊好强"
+                        "ja-JP": "あ、強い"
                     }
                 },
                 {
@@ -300,7 +302,7 @@
                     "path": "m0614-80.mp3",
                     "description": {
                         "zh-CN": "啊好痛",
-                        "ja-JP": "啊好痛"
+                        "ja-JP": "あ、痛"
                     }
                 },
                 {
@@ -308,7 +310,7 @@
                     "path": "m0614-81.mp3",
                     "description": {
                         "zh-CN": "在一起吧",
-                        "ja-JP": "在一起吧"
+                        "ja-JP": "一緒にいよ"
                     }
                 },
                 {
@@ -587,8 +589,8 @@
                     "name": "m0629-22",
                     "path": "m0629-22.mp3",
                     "description": {
-                        "zh-CN": "碍事",
-                        "ja-JP": "邪魔"
+                        "zh-CN": "啊…那就这样吧",
+                        "ja-JP": "じゃ、まぁ"
                     }
                 },
                 {
@@ -1691,7 +1693,7 @@
                     "path": "m0614-6.mp3",
                     "description": {
                         "zh-CN": "不好意系（思）",
-                        "ja-JP": "不好意系（思）"
+                        "ja-JP": "すみません"
                     }
                 },
                 {
@@ -1731,7 +1733,7 @@
                     "path": "m0614-12.mp3",
                     "description": {
                         "zh-CN": "对不起",
-                        "ja-JP": "对不起"
+                        "ja-JP": "ごめんな"
                     }
                 },
                 {
